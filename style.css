@@ -42,8 +42,8 @@ body {
 	border: 0.5rem solid #000000;
 	border-radius: 50%;
 	margin: 1.5rem 0;
-	width: 14rem;
-	height: 14rem;
+	width: 13rem;
+	height: 13rem;
 }
 .flex-nav {
 	display: flex;
